@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8916db98-bbec-4e47-807c-ffcfdecf0c4a/resourceGroups/app_teste/providers/Microsoft.Web/sites/agilium-pdv-web",
+    "appService.deploySubpath": "."
+}
