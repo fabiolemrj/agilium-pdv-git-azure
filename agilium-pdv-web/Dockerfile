@@ -1,4 +1,4 @@
-FROM node:latest AS ng-build
+FROM node:19.5.0-alpine AS ng-build
 RUN mkdir -p /app
 WORKDIR /app
 COPY package.json /app
